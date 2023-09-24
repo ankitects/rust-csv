@@ -25,7 +25,7 @@ bench = false
 
 [dependencies]
 bstr = { version = "0.2.1", features = ["serde1"] }
-csv-core = { path = "csv-core", version = "0.1.6" }
+csv-core = { path = "csv-core", version = "0.0.99" }
 itoa = "1"
 ryu = "1"
 serde = "1.0.55"
